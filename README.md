@@ -1,3 +1,4 @@
+<pre>
 roles/<br>
     common/               # this hierarchy represents a "role"<br>
         tasks/            #<br>
@@ -22,3 +23,4 @@ roles/<br>
     webtier/              # same kind of structure as "common" was above, done for the webtier role<br>
     monitoring/           # ""<br>
     fooapp/ <br>
+</pre>
